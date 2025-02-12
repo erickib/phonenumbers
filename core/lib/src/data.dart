@@ -30,7 +30,7 @@ final List<Country> countries = <Country>[
   Country('Bolivia', 'BO', 591, LengthRule.exact(8)),
   Country('Bosnia and Herzegovina', 'BA', 387, LengthRule.exact(8)),
   Country('Botswana', 'BW', 267, LengthRule.range(7, 8)),
-  Country('Brazil', 'BR', 55, LengthRule.exact(10)),
+  Country('Brazil', 'BR', 55, LengthRule.exact(11)),
   Country('British Indian Ocean Territory', 'IO', 246, LengthRule.exact(7)),
   Country('British Virgin Islands', 'VG', 1284, LengthRule.exact(7)),
   Country('Brunei', 'BN', 673, LengthRule.exact(7)),
